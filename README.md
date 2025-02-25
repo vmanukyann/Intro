@@ -2,12 +2,11 @@
 
 🚀 **Student | Developer**  
 
-I'm a student at **Penn High School** with a passion for robotics, AI, and software development. I love building innovative projects and exploring new technologies to solve real-world problems.  
+I'm a student at **Penn High School** with a passion for robotics, AI, and software development. I love building projects and exploring new technologies and advancments!
 
 - 🔭 I’m currently working on **PennAI**, an AI-powered chatbot for my high school.  
-- 💡 My interests include **AI, web development, and competitive robotics.**  
-- 🏆 Former **FIRST Robotics** team member, where I honed my skills in programming and teamwork.  
-- ⚡ Fun fact: I rediscovered my love for tennis after a break and made the school team on my second try!  
+- 💡 My interests include **AI and web development**  
+- 🏆 **FIRST Robotics** team member
 
 ## 📫 Connect with Me  
 Feel free to reach out!  
