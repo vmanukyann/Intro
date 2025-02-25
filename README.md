@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vazgen</h1>
+<h1 align="center">Hi, I'm Vazgen</h1>
 <h3 align="center">A student at Penn High School</h3>
 
 - 🔭 I’m currently working on [PennAI](https://github.com/vmanukyann/PennAI)
