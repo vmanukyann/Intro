@@ -10,8 +10,7 @@ I'm a student at Penn High School with a passion for robotics, AI, and software 
 Feel free to reach out!
 📧 Email: vazgenmanukyan08@gmail.com
 📧 Email: vmanukyan135@phm.k12.in.us
-🔗 LinkedIn: [Your LinkedIn Profile (Add your profile link if available)
-](https://www.linkedin.com/in/vazgen-manukyan-a60601318/)
+🔗 LinkedIn:(https://www.linkedin.com/in/vazgen-manukyan-a60601318/)
 🛠️ Tech Stack & Tools
 Programming Languages & Frameworks
 
