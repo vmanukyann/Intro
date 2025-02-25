@@ -8,6 +8,7 @@ I'm a student at **Penn High School** with a passion for robotics, AI, and softw
 - 🔭 I’m currently working on **vazgenmanukyan.com**, a personal website.
 - 💡 My interests include **AI and web development**  
 - 🏆 **FIRST Robotics** team member
+- 🏆 **Computer/AI** club founder 
 
 ## 📫 Connect with Me  
 Feel free to reach out!  
