@@ -1,4 +1,4 @@
-# Hi, I'm Vazgen 👋  
+# Hi, I'm Vazgen Manukyan 👋  
 
 🚀 **Student | Developer**  
 
