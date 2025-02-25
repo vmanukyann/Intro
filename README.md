@@ -4,7 +4,8 @@
 
 I'm a student at **Penn High School** with a passion for robotics, AI, and software development. I love building projects and exploring new technologies and advancments!
 
-- 🔭 I’m currently working on **PennAI**, an AI-powered chatbot for my high school.  
+- 🔭 I’m currently working on **PennAI**, an AI-powered chatbot for my high school.
+- 🔭 I’m currently working on **vazgenmanukyan.com**, a personal website.
 - 💡 My interests include **AI and web development**  
 - 🏆 **FIRST Robotics** team member
 
