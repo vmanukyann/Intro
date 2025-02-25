@@ -14,7 +14,7 @@ Feel free to reach out!
 📧 **Email:** [vazgenmanukyan08@gmail.com](mailto:vazgenmanukyan08@gmail.com)  
 📧 **Email:** [vmanukyan135@phm.k12.in.us](mailto:vmanukyan135@phm.k12.in.us)  
 🔗 **LinkedIn:** [Vazgen Manukyan](https://www.linkedin.com/in/vazgen-manukyan-a60601318/)  
-🔗 **Instagram:** [Vazgen Manukyan]([https://www.linkedin.com/in/vazgen-manukyan-a60601318/](https://www.instagram.com/))  
+🔗 **Instagram:** [Vazgen Manukyan](https://www.instagram.com/)  
 
 ## 🛠️ Tech Stack & Tools  
 ### Programming Languages & Frameworks  
