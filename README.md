@@ -5,7 +5,7 @@
 </p>  
 
 <p align="center">  
-Welcome to my GitHub profile! I'm a high school student at <strong>Penn High School</strong> with a deep passion for <strong>robotics, artificial intelligence, and software development</strong>. I thrive on building innovative projects and exploring cutting-edge technologies to solve real-world problems.  
+ I'm a high school student at <strong>Penn High School</strong>. 
 </p>  
 
 ---
