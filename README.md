@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vazgen Manukyan 👋</h1>  
 
 <p align="center">  
-🚀 <strong>Student | Developer | Tech Enthusiast</strong>  
+🚀 <strong>Student | Developer </strong>  
 </p>  
 
 <p align="center">  
