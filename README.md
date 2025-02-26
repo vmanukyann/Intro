@@ -79,30 +79,6 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 
 <h2 align="center">🌟 <strong>Featured Projects</strong></h2>  
 
-<p align="center">  
-Here are some of the projects I'm most proud of:  
-</p>  
-
-<p align="center">  
-- <strong><a href="https://github.com/vmanukyann/PennAI">PennAI</a></strong> – An AI chatbot for my high school.  
-- <strong><a href="https://github.com/vmanukyann/vazgenmanukyan.com">Personal Portfolio</a></strong> – My personal website showcasing my work and skills.  
-</p>  
-
----
-
-<h2 align="center">📚 <strong>Learning Goals</strong></h2>  
-
-<p align="center">  
-I'm currently diving deeper into:  
-</p>  
-
-<p align="center">  
-- <strong>Machine Learning & AI</strong>  
-- <strong>Full-Stack Development</strong>  
-- <strong>Robotics Automation</strong>  
-</p>  
-
----
 
 <p align="center">  
 <i>Let's build something amazing together! 🚀</i>  
