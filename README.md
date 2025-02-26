@@ -7,7 +7,6 @@ I'm a student at **Penn High School** with a passion for **robotics, AI, and sof
 ### 🔭 What I'm Working On  
 - 🚀 **PennAI** – An AI-powered chatbot for my high school  
 - 🌐 **vazgenmanukyan.com** – My personal website  
-- 🤖 **AI & Web Development** – Always learning and experimenting  
 
 ### 🏆 Achievements  
 - 🤖 **FIRST Robotics** team member  
